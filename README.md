@@ -4,6 +4,7 @@ Radian is a PoS-based cryptocurrency.
 
 
 ===========================
+
 RPC port 	27816
 
 P2P port 	2781
